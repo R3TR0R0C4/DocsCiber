@@ -1,6 +1,6 @@
 # nmap
 
-[home](../../../readme.md)
+[Home](../../../readme.md)
 
 [Link](https://nmap.org/)
 
@@ -12,6 +12,6 @@
  - `-T<0-5>` :Configura la velocitat d'escaneig (Més alt més ràpid)
  - `-O` :Habilita la detecció d'OS
  - `-oN/-oX/-oG <file>` :Sortida, Normal, XML, Grepable
- - `-sL` :List Scan - simply list targets to scan
- - `-sn` :Ping Scan - disable port scan
- - `-Pn` :Treat all hosts as online -- skip host discovery
+ - `-sn` :Ping only, retorna MAC i temps de ping, si està encés
+ - `-Pn` :Tracta tots els hosts com online, es saltarà el check inicial de ping
+ - 
