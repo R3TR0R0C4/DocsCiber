@@ -45,3 +45,4 @@ o
 <br>
 
    També podem utilitzar múltiples scripts de la mateixa categoria, per exemple '--script=http*' executarà tots els scripts que comencin amb el nom http
+
