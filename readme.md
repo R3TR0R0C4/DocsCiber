@@ -12,6 +12,7 @@
 ## Escaneig
 
  - [nmap](./eines/Escaneig/nmap/nmap.md)
+ - [masscan](./eines/Escaneig/masscan/masscan.md)
 
 
 ## Escalada de Privilegis
