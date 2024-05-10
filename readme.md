@@ -12,7 +12,7 @@
 ## Escaneig
 
  - [nmap](./eines/Escaneig/nmap/nmap.md)
- - [masscan](./eines/Escaneig/masscan/masscan.md)
+ - [masscan](./eines/Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
 
 
 ## Escalada de Privilegis
