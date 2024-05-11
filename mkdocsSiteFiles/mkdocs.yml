@@ -20,3 +20,6 @@ nav:
     - metodes:
        - reverseShells: metodes/reverseShells.md
        - Kali Reverse Shells: metodes\kaliReverseShells.md
+
+    - Eines Externes:
+       - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
