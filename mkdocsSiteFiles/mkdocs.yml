@@ -3,7 +3,7 @@ theme: readthedocs
 use_directory_urls: false
 
 nav:
-    - Home: readme.md
+    - Home: README.md
     - Eines:
       - Connexio:
           - ncat: ./eines/Connexio/ncat/ncat.md
@@ -19,3 +19,4 @@ nav:
           - h4rpy: eines/Wireless/h4rpy/h4rpy.md
     - metodes:
        - reverseShells: metodes/reverseShells.md
+       - Kali Reverse Shells: metodes\kaliReverseShells.md
