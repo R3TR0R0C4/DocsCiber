@@ -9,7 +9,7 @@
 ## Utilització
 
 Usage: nmap [Scan Type(s)] [Options] {target specification}
-o
+
 ### Paràmetres Comuns
  - `-T<0-5>` :Configura la velocitat d'escaneig (Més alt més ràpid).
  - `-sV` :Detecció dels banners dels serveis.
