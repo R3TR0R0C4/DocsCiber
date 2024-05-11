@@ -2,7 +2,7 @@
 
 ![](img/ncatLogo.png)
 
-[Home](../../../readme.md)
+[Home](../../../README.md)
 
 [KaliTools](https://www.kali.org/tools/netcat/)
 

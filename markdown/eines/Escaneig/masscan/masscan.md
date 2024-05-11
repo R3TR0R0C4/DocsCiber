@@ -2,7 +2,7 @@
 
 ![](img/masscanLogo.png)
 
-[Home](../../../readme.md)
+[Home](../../../README.md)
 
 ### Links
 
