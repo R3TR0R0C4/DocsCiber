@@ -31,3 +31,9 @@
 
   - [Reverse Shells incloses a Kali Linux](./metodes/kaliReverseShells.md)
   - [Reverse Shells multiples progràmes](./metodes/reverseShells.md)
+
+
+
+## Eines
+
+  - [Reverse shell generator](./einesExternes/reverse-shell-generator/index.html) [Github](https://github.com/0dayCTF/reverse-shell-generator)
