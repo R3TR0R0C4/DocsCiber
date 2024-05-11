@@ -53,3 +53,7 @@ o
  - Escaneig dels ports 1 al 1000, amb detecció de banner de servei:
 
    ![](./img/exempleScan1.png)
+
+ - Escaneig dels ports comúns, amb detecció de SO i versió, scripts i traceroute.
+
+   ![](./img/exempleScan2.png)
