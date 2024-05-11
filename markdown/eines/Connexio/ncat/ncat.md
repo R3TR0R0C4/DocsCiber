@@ -24,12 +24,12 @@ Escoltar connexió: nc -l -p port [-options] [hostname] [port]
  - `--ssl` :Activa l'utilització d'encriptació ssl.
 
 
-### Exemples de connexións:
+### Exemples d'ús:
 
  - Connexió a una IP i port remot:
 
- ![](./img/exempleConexio.png)
+   ![](./img/exempleConexio.png)
 
  - Escolta al port 4242, amb ssl i verbose activat:
 
- ![](./img/exempleEscolta.png)
+   ![](./img/exempleEscolta.png)

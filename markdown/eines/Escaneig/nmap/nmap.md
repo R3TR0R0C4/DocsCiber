@@ -12,6 +12,7 @@ Usage: nmap [Scan Type(s)] [Options] {target specification}
 o
 ### Paràmetres Comuns
  - `-T<0-5>` :Configura la velocitat d'escaneig (Més alt més ràpid).
+ - `-sV` :Detecció dels banners dels serveis.
  - `-O` :Habilita la detecció d'OS.
  - `-oN/-oX/-oG <file>` :Sortida, Normal, XML, Grepable.
  - `-sn` :Ping only, retorna MAC i temps de ping, si està encès.
@@ -46,3 +47,9 @@ o
 
    També podem utilitzar múltiples scripts de la mateixa categoria, per exemple '--script=http*' executarà tots els scripts que comencin amb el nom http
 
+
+### Exemples d'ús:
+
+ - Escaneig dels ports 1 al 1000, amb detecció de banner de servei:
+
+   ![](./img/exempleScan1.png)
