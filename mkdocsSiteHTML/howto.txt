@@ -1,0 +1,4 @@
+windows:
+
+serve: C:\Users\nicor\Documents\GitHub\DocsCiber\mkdocsSiteHTML\mkdocs>python3 -m mkdocs serve
+build: C:\Users\nicor\Documents\GitHub\DocsCiber\mkdocsSiteHTML\mkdocs>python3 -m mkdocs build

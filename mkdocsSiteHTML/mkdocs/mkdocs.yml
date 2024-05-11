@@ -1,0 +1,21 @@
+site_name: My Docs
+theme: readthedocs
+use_directory_urls: false
+
+nav:
+    - Home: readme.md
+    - Eines:
+      - Connexio:
+          - ncat: ./eines/Connexio/ncat/ncat.md
+          - masscan: eines/Escaneig/masscan/masscan.md
+      - Enumeracio:
+          - webcopilot: eines/Enumeracio/webcopilot.md
+      - Escaneig:
+          - masscan: eines/Escaneig/masscan/masscan.md
+          - nmap: eines/Escaneig/nmap/nmap.md
+      - Privilege_Escalation:
+          - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
+      - Wireless:
+          - h4rpy: eines/Wireless/h4rpy/h4rpy.md
+    - metodes:
+       - reverseShells: metodes/reverseShells.md
