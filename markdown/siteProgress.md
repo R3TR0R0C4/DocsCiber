@@ -1,15 +1,55 @@
 # Pàgines
  - [ ] hashcat
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [X] john the ripper
  - [ ] hydra
- - [ ] dirb
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
+ - [ ] dirb (en procés)
+   - [X] Titol
+   - [X] Logo
+   - [X] Utilització
+   - [X] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [ ] dirbuster
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [ ] wpscan
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [X] ncat
  - [ ] webcopilot
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [X] nmap
  - [ ] masscan
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
  - [ ] peass-ng
+   - [ ] Titol
+   - [ ] Logo
+   - [ ] Utilització
+   - [ ] Paràmetres Comúns
+   - [ ] Exemples d'ús
 
 # WebServer
  - [X] Forçar l'ús de https en hoster de roca.rf.gd
