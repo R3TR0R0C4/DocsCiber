@@ -2,6 +2,21 @@
 
 ## Paquets
 
+### Atacs de Contrasenyes
+
+#### Atacs Offline
+   - [Hashcat](./eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md)
+   - [John the Ripper](./eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md)
+
+#### Atacs Online
+   - [Hydra](./eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md)
+
+### Atacs Web
+
+   - [dirb](./eines/Atacs_web/dirb/dirb.md)
+   - [dirbuster](./eines/Atacs_web/dirbuster/dirbuster.md)
+   - [wpscan](./eines/Atacs_web/wpscan/wpscan.md)
+
 ### Connexió
   
    - [ncat](./eines/Connexio/ncat/ncat.md)
