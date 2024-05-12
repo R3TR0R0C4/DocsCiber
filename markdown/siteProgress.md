@@ -1,55 +1,80 @@
 # Pàgines
- - [ ] hashcat
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
+ 
+   - [ ] hashcat - Titol
+   - [ ] hashcat - Logo
+   - [ ] hashcat - Utilització
+   - [ ] hashcat - Paràmetres Comúns
+   - [ ] hashcat - Exemples d'ús
+
+<br>
+
  - [X] john the ripper
- - [ ] hydra
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
- - [ ] dirb (en procés)
-   - [X] Titol
-   - [X] Logo
-   - [X] Utilització
-   - [X] Paràmetres Comúns
-   - [ ] Exemples d'ús
- - [ ] dirbuster
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
- - [ ] wpscan
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
+
+<br>
+
+   - [ ] hydra - Titol
+   - [ ] hydra - Logo
+   - [ ] hydra - Utilització
+   - [ ] hydra - Paràmetres Comúns
+   - [ ] hydra - Exemples d'ús
+
+<br>
+
+   - [X] dirb - Titol
+   - [X] dirb - Logo
+   - [X] dirb - Utilització
+   - [X] dirb - Paràmetres Comúns
+   - [ ] dirb - Exemples d'ús
+
+<br>
+
+   - [ ] dirbuster - Titol
+   - [ ] dirbuster - Logo
+   - [ ] dirbuster - Utilització
+   - [ ] dirbuster - Paràmetres Comúns
+   - [ ] dirbuster - Exemples d'ús
+
+<br>
+
+   - [ ] wpscan - Titol
+   - [ ] wpscan - Logo
+   - [ ] wpscan - Utilització
+   - [ ] wpscan - Paràmetres Comúns
+   - [ ] wpscan - Exemples d'ús
+
+<br>
+
  - [X] ncat
- - [ ] webcopilot
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
+
+<br>
+
+   - [ ] webcopilot - Titol
+   - [ ] webcopilot - Logo
+   - [ ] webcopilot - Utilització
+   - [ ] webcopilot - Paràmetres Comúns
+   - [ ] webcopilot - Exemples d'ús
+
+<br>
+
  - [X] nmap
- - [ ] masscan
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
- - [ ] peass-ng
-   - [ ] Titol
-   - [ ] Logo
-   - [ ] Utilització
-   - [ ] Paràmetres Comúns
-   - [ ] Exemples d'ús
+
+<br>
+
+   - [ ] masscan - Titol
+   - [ ] masscan - Logo
+   - [ ] masscan - Utilització
+   - [ ] masscan - Paràmetres Comúns
+   - [ ] masscan - Exemples d'ús
+
+<br>
+
+   - [ ] peass-ng - Titol
+   - [ ] peass-ng - Logo
+   - [ ] peass-ng - Utilització
+   - [ ] peass-ng - Paràmetres Comúns
+   - [ ] peass-ng - Exemples d'ús
+
+<br>
 
 # WebServer
  - [X] Forçar l'ús de https en hoster de roca.rf.gd
