@@ -1,4 +1,4 @@
-# ncat
+# gobuster
 
 ![](img/gobusterLogo.png)
 
