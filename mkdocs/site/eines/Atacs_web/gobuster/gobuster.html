@@ -416,7 +416,7 @@
             <!-- block content -->
                 <section class="p-md-5 section-content">
     <article>
-        <p><h1 id="ncat">ncat</h1>
+        <p><h1 id="gobuster">gobuster</h1>
 <p><img alt="" src="img/gobusterLogo.png" /></p>
 <p><a href="../../../index.html">Home</a></p>
 <p><a href="https://www.kali.org/tools/gobuster/">KaliTools</a></p>
@@ -424,19 +424,21 @@
 <p>gobuster [opcions] [objectiu, ip/URL] -w [wordlist]</p>
 <h3 id="parametres-comuns">Paràmetres Comúns</h3>
 <ul>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
-<li>`` :</li>
+<li><code>-w &lt;arxiu&gt;</code> :Indiquem l'arxiu wordlist.</li>
+<li><code>-u &lt;url&gt;</code> :URL a escanejar, no és necessari pero recomanable.</li>
+<li><code>-P &lt;Contrasenya&gt;</code> :Contrasenya a utilitzar en un login d'una web.</li>
+<li><code>-U &lt;Usuari&gt;</code> :Usuari a utilitzar en un login d'una web.</li>
+<li><code>-a &lt;User_Agent&gt;</code> :Canviem el user_agent.</li>
+<li><code>-e</code> :Mostrem la url completa de l'arxiu.</li>
+<li><code>-k</code> :Ens saltem la verificació SSL.</li>
+<li><code>-r</code> :Seguir redireccións (pot ser inconvenient ja a que pot enviar-te a moltes webs).</li>
+<li><code>-x &lt;extensió&gt;</code> :Extensió d'arxius a buscar, podem buscarne varis separats amb comes "pdf,xml,mp3".</li>
 </ul>
-<h3 id="exemples-dus">Exemples d'ús</h3></p>
+<h3 id="exemples-dus">Exemples d'ús</h3>
+<ul>
+<li>Búsqueda amb urls completes, amb mode directori, amb la wordlist customitzada:</li>
+</ul>
+<p><img alt="" src="img/exempleScan1.png" /></p></p>
     </article>
 </section>
             <!-- endblock -->
