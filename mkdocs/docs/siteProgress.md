@@ -28,14 +28,6 @@
 
 <br>
 
- - [ ] dirbuster - Titol
- - [ ] dirbuster - Logo
- - [ ] dirbuster - Utilització
- - [ ] dirbuster - Paràmetres Comúns
- - [ ] dirbuster - Exemples d'ús
-
-<br>
-
  - [ ] wpscan - Titol
  - [ ] wpscan - Logo
  - [ ] wpscan - Utilització
