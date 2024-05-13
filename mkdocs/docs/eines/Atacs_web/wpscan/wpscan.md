@@ -15,8 +15,9 @@ Pots utilitzar wpscan sense registrar-te pero idealment utilitzaríes una api ke
 Podem utilitzar correus temporals com aquest: [Link](https://temp-mail.org/)
 
 ### Paràmetres Comúns
-S'utilitzen en combinació per escoltar en un port determinat.
- - `-u` :Utilitzem el mode UDP.
+ - `--url <url>` :Indiquem l'url on està el servidor wordpress
+ - `--api-token <token>` :Indiquem quina api key tenim
+ - `--stealthy` :Aleatoritzem el User_agent per fer l'escaneig més discret
 
 ### Exemples d'ús
 
