@@ -1,5 +1,5 @@
 site_name: My Docs
-theme: readthedocs
+theme: dracula
 use_directory_urls: false
 
 nav:
@@ -7,14 +7,14 @@ nav:
     - Eines:
       - Atacs_Contrasenyes:
           - Atacs_Offline:
-              - Hashcat: eines\Atacs_Contrasenyes\Atacs_Offline\hashcat\hashcat.md
-              - John the Ripper: eines\Atacs_Contrasenyes\Atacs_Offline\john_the_ripper\johntheripper.md
+              - Hashcat: eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md
+              - John the Ripper: eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
           - Atacs_Online:
-              - Hydra: eines\Atacs_Contrasenyes\Atacs_Online\hydra\hydra.md
+              - Hydra: eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
       - Atacs Web:
-          - Dirb: eines\Atacs_web\dirb\dirb.md
-          - Dirbuster: eines\Atacs_web\dirbuster\dirbuster.md
-          - WpScan: eines\Atacs_web\wpscan\wpscan.md
+          - Dirb: eines/Atacs_web/dirb/dirb.md
+          - Dirbuster: eines/Atacs_web/dirbuster/dirbuster.md
+          - WpScan: eines/Atacs_web/wpscan/wpscan.md
       - Connexio:
           - ncat: eines/Connexio/ncat/ncat.md
           - masscan: eines/Escaneig/masscan/masscan.md
@@ -29,6 +29,6 @@ nav:
           - h4rpy: eines/Wireless/h4rpy/h4rpy.md
     - metodes:
        - reverseShells: metodes/reverseShells.md
-       - Kali Reverse Shells: metodes\kaliReverseShells.md
+       - Kali Reverse Shells: metodes/kaliReverseShells.md
     - Eines Externes:
        - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
