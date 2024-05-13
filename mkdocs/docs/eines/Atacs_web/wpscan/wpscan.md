@@ -18,6 +18,15 @@ Podem utilitzar correus temporals com aquest: [Link](https://temp-mail.org/)
  - `--url <url>` :Indiquem l'url on està el servidor wordpress
  - `--api-token <token>` :Indiquem quina api key tenim
  - `--stealthy` :Aleatoritzem el User_agent per fer l'escaneig més discret
+ - `-e` :Mostra només els resultats sel·leccionats, com:
+
+<br>
+
+ - `vp` Vulnerable plugins
+ - `vt` Vulnerable theme
+ - `u` User IDs ranges
+ - `m` Media IDs ranges
+
 
 ### Exemples d'ús
 
