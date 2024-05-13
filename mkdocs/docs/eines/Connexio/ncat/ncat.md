@@ -24,7 +24,7 @@ Escoltar connexió: nc -l -p port [-options] [hostname] [port]
  - `--ssl` :Activa l'utilització d'encriptació ssl.
 
 
-### Exemples d'ús:
+### Exemples d'ús
 
  - Connexió a una IP i port remot:
 

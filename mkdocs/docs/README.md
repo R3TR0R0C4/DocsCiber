@@ -5,15 +5,18 @@
 ### Atacs de Contrasenyes
 
 #### Atacs Offline
+
    - [Hashcat](./eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md)
    - [John the Ripper](./eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md)
 
 #### Atacs Online
+
    - [Hydra](./eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md)
 
 ### Atacs Web
 
    - [dirb](./eines/Atacs_web/dirb/dirb.md)
+   - [gobuster](./eines/Atacs_web/gobuster/gobuster.md)
    - [wpscan](./eines/Atacs_web/wpscan/wpscan.md)
 
 ### Connexió
@@ -47,14 +50,9 @@
   - [Reverse Shells multiples progràmes](./metodes/reverseShells.md)
 
 
-
 ## Eines
 
   - [Reverse shell generator](./einesExternes/reverse-shell-generator/index.html) [Github](https://github.com/0dayCTF/reverse-shell-generator)
-
-
-
-
 
 
 #### Altres

@@ -16,6 +16,7 @@ nav:
           - WpScan: eines/Atacs_web/wpscan/wpscan.md
       - Connexio:
           - ncat: eines/Connexio/ncat/ncat.md
+          - gobuster: eines/Connexio/gobuster/gobuster.md
           - masscan: eines/Escaneig/masscan/masscan.md
       - Enumeracio:
           - webcopilot: eines/Enumeracio/webcopilot.md
