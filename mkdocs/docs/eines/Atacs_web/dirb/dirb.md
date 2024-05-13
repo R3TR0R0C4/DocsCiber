@@ -21,3 +21,10 @@ dirb <url_base> <url_base> [<wordlist_file(s)>] [options]
  - `-t` :No forçar que el final de l'url acabi amb "/".
  - `-u <username:password>` :Usuari i contrasenya de la pàgina.
  - `-w` :No parar als missatges d'error.
+
+
+### Exemples d'ús:
+
+ - Escaneig del webserver d'una ip amb wordlist cutomitzada:
+
+   ![](./img/exempleScan1.png)

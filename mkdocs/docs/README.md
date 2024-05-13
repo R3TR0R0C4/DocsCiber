@@ -14,7 +14,6 @@
 ### Atacs Web
 
    - [dirb](./eines/Atacs_web/dirb/dirb.md)
-   - [dirbuster](./eines/Atacs_web/dirbuster/dirbuster.md)
    - [wpscan](./eines/Atacs_web/wpscan/wpscan.md)
 
 ### Connexió
