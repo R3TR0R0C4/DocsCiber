@@ -424,15 +424,17 @@
 <p>Realitzar connexió: nc [-options] hostname port[s] [ports] ... </p>
 <p>Escoltar connexió: nc -l -p port [-options] [hostname] [port]</p>
 <h3 id="parametres-comuns">Paràmetres Comúns</h3>
-<p>S'utilitzen en combinació per escoltar en un port determinat.
- - <code>-u</code> :Utilitzem el mode UDP.
- - <code>-v</code> :Mode verbose.
- - <code>-c &lt;comanda&gt;</code> :Després de realitzar una connexió, executem la comanda indicada en l'equip remot.
- - <code>-e &lt;programa&gt;</code> :Després de realitzar una connexió, executem el programa indicat en l'equip remot.
- - <code>-s &lt;ip&gt;</code> :Indiquem des-de quina IP local es realitzarà la connexió.
- - <code>-k</code> :Ens mantenim escoltant inclús després de realitzar una connexio.
- - <code>-r</code> :Aleatoritza ports locals i remots.
- - <code>--ssl</code> :Activa l'utilització d'encriptació ssl.</p>
+<ul>
+<li><code>-l -p &lt;port&gt;</code> :S'utilitzen en combinació per escoltar en un port determinat.</li>
+<li><code>-u</code> :Utilitzem el mode UDP.</li>
+<li><code>-v</code> :Mode verbose.</li>
+<li><code>-c &lt;comanda&gt;</code> :Després de realitzar una connexió, executem la comanda indicada en l'equip remot.</li>
+<li><code>-e &lt;programa&gt;</code> :Després de realitzar una connexió, executem el programa indicat en l'equip remot.</li>
+<li><code>-s &lt;ip&gt;</code> :Indiquem des-de quina IP local es realitzarà la connexió.</li>
+<li><code>-k</code> :Ens mantenim escoltant inclús després de realitzar una connexio.</li>
+<li><code>-r</code> :Aleatoritza ports locals i remots.</li>
+<li><code>--ssl</code> :Activa l'utilització d'encriptació ssl.</li>
+</ul>
 <h3 id="exemples-dus">Exemples d'ús</h3>
 <ul>
 <li>Connexió a una IP i port remot:</li>
