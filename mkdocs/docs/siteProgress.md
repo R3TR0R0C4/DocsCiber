@@ -28,11 +28,8 @@
 
 <br>
 
- - [ ] wpscan - Titol
- - [ ] wpscan - Logo
- - [ ] wpscan - Utilització
- - [ ] wpscan - Paràmetres Comúns
- - [ ] wpscan - Exemples d'ús
+ - [X] wpscan
+
 
 <br>
 
