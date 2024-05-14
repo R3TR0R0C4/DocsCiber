@@ -8,7 +8,7 @@
 
 ## Utilització
 
-steghide <opcions> <arxiu>
+steghide [opcions] [arxiu]
 
 ### Paràmetres Comúns
 
