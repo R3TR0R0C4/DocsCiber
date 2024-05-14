@@ -32,7 +32,11 @@
   
    - [nmap](./eines/Escaneig/nmap/nmap.md) *Scanner d'IPs amb scripts*
    - [masscan](./eines/Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
-  
+
+
+### Esteganografia
+
+   - [Steghide](./eines/Esteganografia/steghide/steghide.md)
   
 ### Escalada de Privilegis
   
