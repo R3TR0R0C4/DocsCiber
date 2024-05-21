@@ -22,6 +22,8 @@ nav:
       - Escaneig:
           - masscan: eines/Escaneig/masscan/masscan.md
           - nmap: eines/Escaneig/nmap/nmap.md
+      - Esteganografia:
+          - steghide: eines/Esteganografia/steghide/steghide.md
       - Privilege_Escalation:
           - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
       - Wireless:
