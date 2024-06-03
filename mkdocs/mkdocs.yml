@@ -11,6 +11,7 @@ nav:
               - John the Ripper: eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
           - Atacs_Online:
               - Hydra: eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
+              - Kerbrute: eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
       - Atacs Web:
           - Dirb: eines/Atacs_web/dirb/dirb.md
           - Gobuster: eines/Atacs_web/gobuster/gobuster.md
