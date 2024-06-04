@@ -1,5 +1,7 @@
 # Docs tools ciber
 
+## Exploits
+   - [Exploits](./exploits/exploits.md)
 
 #### Atacs de Contrasenyes Offline
    - [Hashcat](./eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md) *Cracking de hashes*
