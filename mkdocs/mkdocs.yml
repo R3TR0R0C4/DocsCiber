@@ -29,7 +29,7 @@ nav:
           - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
       - Wireless:
           - H4rpy: eines/Wireless/h4rpy/h4rpy.md
-    - metodes:
+    - Metodes:
        - Reverse Shells: metodes/reverseShells.md
        - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
     - Eines Externes:
