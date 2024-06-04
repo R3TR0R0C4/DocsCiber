@@ -17,21 +17,21 @@ nav:
           - Gobuster: eines/Atacs_web/gobuster/gobuster.md
           - WpScan: eines/Atacs_web/wpscan/wpscan.md
       - Connexio:
-          - ncat: eines/Connexio/ncat/ncat.md
+          - Ncat: eines/Connexio/ncat/ncat.md
       - Enumeracio:
-          - webcopilot: eines/Enumeracio/webcopilot/webcopilot.md
+          - Webcopilot: eines/Enumeracio/webcopilot/webcopilot.md
       - Escaneig:
-          - masscan: eines/Escaneig/masscan/masscan.md
-          - nmap: eines/Escaneig/nmap/nmap.md
+          - Masscan: eines/Escaneig/masscan/masscan.md
+          - Nmap: eines/Escaneig/nmap/nmap.md
       - Esteganografia:
-          - steghide: eines/Esteganografia/steghide/steghide.md
+          - Steghide: eines/Esteganografia/steghide/steghide.md
       - Privilege_Escalation:
           - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
       - Wireless:
-          - h4rpy: eines/Wireless/h4rpy/h4rpy.md
+          - H4rpy: eines/Wireless/h4rpy/h4rpy.md
     - metodes:
-       - reverseShells: metodes/reverseShells.md
-       - Kali Reverse Shells: metodes/kaliReverseShells.md
+       - Reverse Shells: metodes/reverseShells.md
+       - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
     - Eines Externes:
        - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
 

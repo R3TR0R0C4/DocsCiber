@@ -10,9 +10,9 @@
    - [Hydra](./eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md) *Atacs de diccionari a logins online*
 
 ### Atacs Web
-   - [dirb](./eines/Atacs_web/dirb/dirb.md) *Web Crawler*
-   - [gobuster](./eines/Atacs_web/gobuster/gobuster.md) *Web Crawler*
-   - [wpscan](./eines/Atacs_web/wpscan/wpscan.md) *Escaner vulnerabilitats de WordPress i extensions*
+   - [Dirb](./eines/Atacs_web/dirb/dirb.md) *Web Crawler*
+   - [Gobuster](./eines/Atacs_web/gobuster/gobuster.md) *Web Crawler*
+   - [Wpscan](./eines/Atacs_web/wpscan/wpscan.md) *Escaner vulnerabilitats de WordPress i extensions*
 
 ### Connexió
    - [ncat](./eines/Connexio/ncat/ncat.md) *Realitzar connexións, i escoltar a ports*
@@ -21,8 +21,8 @@
    - [WebCopilot](./eines/Connexio/ncat/ncat.md) *Enumeració de subdominis*
   
 ### Escaneig
-   - [nmap](./eines/Escaneig/nmap/nmap.md) *Scanner d'IPs amb scripts*
-   - [masscan](./eines/Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
+   - [Nmap](./eines/Escaneig/nmap/nmap.md) *Scanner d'IPs amb scripts*
+   - [Masscan](./eines/Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
 
 ### Esteganografia
    - [Steghide](./eines/Esteganografia/steghide/steghide.md) *Esteganografia amb fitxers .png*
@@ -31,7 +31,7 @@
    - [Peass-ng](./eines/Privilege_Escalation/PEASS-ng/peass-ng.md) *Recull d'eines de Privilege Escalation*
 
 ### Wireless
-   - [h4rpy](./eines/Wireless/h4rpy/h4rpy.md) *Framework d'atac WPA/WPA2 amb Aircrack-ng*
+   - [H4rpy](./eines/Wireless/h4rpy/h4rpy.md) *Framework d'atac WPA/WPA2 amb Aircrack-ng*
 
 
 ## Metodes
