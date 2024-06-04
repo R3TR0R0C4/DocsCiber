@@ -1,10 +1,6 @@
 # Pàgines
  
- - [ ] hashcat - Titol
- - [ ] hashcat - Logo
- - [ ] hashcat - Utilització
- - [ ] hashcat - Paràmetres Comúns
- - [ ] hashcat - Exemples d'ús
+ - [ ] hashcat
 
 <br>
 
@@ -12,11 +8,11 @@
 
 <br>
 
- - [ ] hydra - Titol
- - [ ] hydra - Logo
- - [ ] hydra - Utilització
- - [ ] hydra - Paràmetres Comúns
- - [ ] hydra - Exemples d'ús
+ - [ ] hydra
+
+<br>
+
+ - [X] kerbrute
 
 <br>
 
@@ -36,11 +32,7 @@
 
 <br>
 
- - [ ] webcopilot - Titol
- - [ ] webcopilot - Logo
- - [ ] webcopilot - Utilització
- - [ ] webcopilot - Paràmetres Comúns
- - [ ] webcopilot - Exemples d'ús
+ - [ ] webcopilot
 
 <br>
 
@@ -52,11 +44,11 @@
 
 <br>
 
- - [ ] peass-ng - Titol
- - [ ] peass-ng - Logo
- - [ ] peass-ng - Utilització
- - [ ] peass-ng - Paràmetres Comúns
- - [ ] peass-ng - Exemples d'ús
+ - [ ] peass-ng
+
+<br>
+
+ - [ ] h4rpy
 
 <br>
 
