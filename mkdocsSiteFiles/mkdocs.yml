@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: DocsCiber
 theme: dracula
 use_directory_urls: false
 
@@ -11,18 +11,20 @@ nav:
               - John the Ripper: eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
           - Atacs_Online:
               - Hydra: eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
+              - Kerbrute: eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
       - Atacs Web:
           - Dirb: eines/Atacs_web/dirb/dirb.md
-          - Dirbuster: eines/Atacs_web/dirbuster/dirbuster.md
+          - Gobuster: eines/Atacs_web/gobuster/gobuster.md
           - WpScan: eines/Atacs_web/wpscan/wpscan.md
       - Connexio:
           - ncat: eines/Connexio/ncat/ncat.md
-          - masscan: eines/Escaneig/masscan/masscan.md
       - Enumeracio:
-          - webcopilot: eines/Enumeracio/webcopilot.md
+          - webcopilot: eines/Enumeracio/webcopilot/webcopilot.md
       - Escaneig:
           - masscan: eines/Escaneig/masscan/masscan.md
           - nmap: eines/Escaneig/nmap/nmap.md
+      - Esteganografia:
+          - steghide: eines/Esteganografia/steghide/steghide.md
       - Privilege_Escalation:
           - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
       - Wireless:
