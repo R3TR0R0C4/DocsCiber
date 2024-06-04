@@ -16,6 +16,9 @@
 
 <br>
 
+ - [ ] 
+ - [ ]
+
 # WebServer
  - [X] Forçar l'ús de https en hoster de roca.rf.gd
 
