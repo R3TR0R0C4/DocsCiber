@@ -34,3 +34,8 @@ nav:
        - Kali Reverse Shells: metodes/kaliReverseShells.md
     - Eines Externes:
        - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
+
+
+exclude_docs: |
+    siteProgress.md
+    metodes/kali_Integrated_Shells/seclists/Vtiger/README.md

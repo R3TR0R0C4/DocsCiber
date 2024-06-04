@@ -453,18 +453,29 @@
 <p>steghide [opcions] [arxiu]</p>
 <h3 id="parametres-comuns">Paràmetres Comúns</h3>
 <p>Opcións d'amagat:
- - <code>-ef &lt;arxiu&gt;</code> :
- - <code>-cf &lt;arxiu&gt;</code> :
- - <code>-p &lt;string&gt;</code> :
- - <code>-sf &lt;arxiu&gt;</code> :
- - <code>-z</code> :
- - <code>-Z</code> :
- - <code>9t</code> :
- - <code>:
- -</code> :
- - `` :</p>
+ - <code>-ef &lt;arxiu&gt;</code>, <code>--embedfile &lt;arxiu&gt;</code> :Especifiquem l'arxiu que amagarem
+ - <code>-cf &lt;arxiu&gt;</code>, <code>--coverfile &lt;arxiu&gt;</code> :Especifiquem l'arxiu de coverta (el que es veurà com resultat)
+ - <code>-p &lt;string&gt;</code>, <code>--passphrase &lt;string&gt;</code> :Contrasenya d'encriptació (opcional). 
+ - <code>-sf &lt;arxiu&gt;</code>, <code>--stegofile &lt;arxiu&gt;</code> :Especifiquem l'arxiu de sortida, si no s'especifica, es sobre-escriurà l'arxiu de coverta..
+ - <code>-z</code>, <code>--compress</code> :Comprimeix les dades avans d'amagarles, valors de 0 a 9, per defecte 6.</p>
 <p>Opcións d'extracció:
- - `` :</p></p>
+ - <code>-sf &lt;arxiu&gt;</code>, <code>--stegofile &lt;arxiu&gt;</code> :Indiquem l'arxiu d'on extreure les dades.
+ - <code>-xf</code>, <code>--extractfile</code> :Arxiu de sortida de dades (opcional).
+ - <code>-p</code>, <code>--passphrase</code> :Contrasenya de l'arxi</p>
+<h3 id="exemples-dus">Exemples d'ús</h3>
+<ul>
+<li>
+<p>Guardem l'arxiu <code>secret.txt</code> a la foto <code>cover.jpg</code>, amb la contrasenya <code>mysecretpass</code> i compressió màxima (9):</p>
+<p><code>steghide embed -cf cover.jpg -ef secret.txt -p "mysecretpass" -z 9</code></p>
+</li>
+</ul>
+<p><br></p>
+<ul>
+<li>
+<p>Extraiem l'arxiu amagat de <code>cover.jpg</code> amb la contrasenya <code>mysecretpass</code>:</p>
+<p><code>steghide extract -sf cover.jpg -p "mysecretpass"</code></p>
+</li>
+</ul></p>
     </article>
 </section>
             <!-- endblock -->
