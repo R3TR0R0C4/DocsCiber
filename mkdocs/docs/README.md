@@ -2,7 +2,6 @@
 
 ## Paquets
 
-
 ### Atacs de Contrasenyes Offline
    - [Hashcat](./eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md) *Cracking de hashes*
    - [John the Ripper](./eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md) *Cracking de hashes (només cpu)*
