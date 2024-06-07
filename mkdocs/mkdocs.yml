@@ -4,6 +4,7 @@ use_directory_urls: false
 
 nav:
     - Home: README.md
+    - Llistat d'eines: eines.md
     - Eines:
       - Atacs_Contrasenyes:
           - Atacs_Offline:
@@ -32,6 +33,8 @@ nav:
     - Metodes:
        - Reverse Shells: metodes/reverseShells.md
        - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
+       - Tips Shells Linux: metodes/shellsLinux.md
+    - Exploits: exploits/exploits.md
     - Eines Externes:
        - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
 
@@ -39,3 +42,4 @@ nav:
 exclude_docs: |
     siteProgress.md
     metodes/kali_Integrated_Shells/seclists/Vtiger/README.md
+    exploits/LocalPrivilegeEscalation/LinuxKernel/4.13.9/4.13.9.md
