@@ -36,20 +36,3 @@
 
 #### Wireless
    - [H4rpy](./eines/Wireless/h4rpy/h4rpy.md) *Framework d'atac WPA/WPA2 amb Aircrack-ng*
-
-
-[//]: # (## Metodes)
-[//]: # (  - [Reverse Shells incloses a Kali Linux](./metodes/kaliReverseShells.md) *Reverse Shells integrades a kali*)
-[//]: # (  - [Reverse Shells multiples progràmes](./metodes/reverseShells.md) *Diverses reverse shells de programari divers*)
-
-
-[//]: # (## Eines)
-[//]: # (  - [Reverse shell generator](./einesExternes/reverse-shell-generator/index.html) [Github](https://github.com/0dayCTF/reverse-shell-generator) *Generador Reverse Shells*)
-
-
-[//]: # (##### Altres)
-[//]: # (  - [Site progress](siteProgress.md)
-
-
-
-
