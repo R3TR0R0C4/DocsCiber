@@ -3,7 +3,7 @@
 
 ### Eines
 
-[Eines](eines.md)
+[Eines](eines/eines.md)
 
 [Eines Externes](einesExternes/reverse-shell-generator/index.html)
 
@@ -21,4 +21,4 @@
 
 [Reverse Shells](metodes/reverseShells.md)
 
-[Shells de Linux](metodes/shellsLinux.md)
+[Shells de Linux](metodes/tipsShellsLinux.md)
