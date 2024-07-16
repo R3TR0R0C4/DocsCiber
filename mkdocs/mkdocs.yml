@@ -33,7 +33,8 @@ nav:
     - Metodes:
        - Reverse Shells: metodes/reverseShells.md
        - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
-       - Tips Shells Linux: metodes/shellsLinux.md
+       - Tips Shells Linux: metodes/tipsShellsLinux.md
+       - Atacs a Serveis: metodes/atacsServeis.md
     - Exploits: exploits/exploits.md
     - Eines Externes:
        - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
