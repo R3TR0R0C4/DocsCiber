@@ -1,481 +1,363 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-        <title>DocsCiber</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="generator" content="mkdocs-1.6.0, mkdocs-terminal-4.6.0">
+     
+     
+    <link rel="icon" type="image/png" sizes="192x192" href="img/android-chrome-192x192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="img/android-chrome-512x512.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+<link rel="shortcut icon" type="image/png" sizes="48x48" href="img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" />
 
-        <meta name="description" content="None">
-        
-        
 
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-            <link rel="stylesheet" href="assets/css/darcula-highlight.min.css">
+    
+ 
+<title>Home - DocsCiber</title>
 
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/dracula-ui.min.css">
-        <link rel="stylesheet" href="assets/css/mkdocs.min.css">
 
-        
-            <link  rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
-        
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-                <script>hljs.initHighlightingOnLoad();</script>
+<link href="css/fontawesome/css/fontawesome.min.css" rel="stylesheet">
+<link href="css/fontawesome/css/solid.min.css" rel="stylesheet">
+<link href="css/normalize.css" rel="stylesheet">
+<link href="css/terminal.css" rel="stylesheet">
+<link href="css/theme.css" rel="stylesheet">
+<link href="css/theme.tile_grid.css" rel="stylesheet">
+<link href="css/theme.footer.css" rel="stylesheet">
+<!-- default color palette -->
+<link href="css/palettes/default.css" rel="stylesheet">
 
+<!-- page layout -->
+<style>
+/* initially set page layout to a one column grid */
+.terminal-mkdocs-main-grid {
+    display: grid;
+    grid-column-gap: 1.4em;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
+
+/*  
+*   when side navigation is not hidden, use a two column grid.  
+*   if the screen is too narrow, fall back to the initial one column grid layout.
+*   in this case the main content will be placed under the navigation panel. 
+*/
+@media only screen and (min-width: 70em) {
+    .terminal-mkdocs-main-grid {
+        grid-template-columns: 4fr 9fr;
+    }
+}</style>
+
+
+
+    
+    <link href="css/extra.css" rel="stylesheet">  
+    
+    
+
+    
+    <!-- search css support -->
+<link href="css/search/bootstrap-modal.css" rel="stylesheet">
+<!-- search scripts -->
+<script>
+    var base_url = ".",
+    shortcuts = "{}";
+</script>
+<script src="js/jquery/jquery-1.10.1.min.js" defer></script>
+<script src="js/bootstrap/bootstrap.min.js" defer></script>
+<script src="js/mkdocs/base.js" defer></script>
+    
+    
+    
+    
+    <script src="search/main.js"></script>
+    
+
+    
 </head>
 
-<body class="drac-bg-black-secondary drac-text-grey-ternary drac-text drac-scrollbar-purple">
+<body class="terminal"><div class="container">
+    <div class="terminal-nav">
+        <header class="terminal-logo">
+            <div id="mkdocs-terminal-site-name" class="logo terminal-prompt"><a href="/" class="no-style">DocsCiber</a></div>
+        </header>
+        
+        <nav class="terminal-menu">
+            
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                
+                <li property="itemListElement" typeof="ListItem">
+                    <a href="index.html" class="menu-item active" property="item" typeof="WebPage">
+                        <span property="name">Home</span>
+                    </a>
+                    <meta property="position" content="0">
+                </li>
+                
+                
+                <li property="itemListElement" typeof="ListItem">
+                    <a href="eines/eines.html" class="menu-item " property="item" typeof="WebPage">
+                        <span property="name">Llistat d'eines</span>
+                    </a>
+                    <meta property="position" content="1">
+                </li>
+                
+                
+                
+                
+                <li property="itemListElement" typeof="ListItem">
+                    <a href="exploits/exploits.html" class="menu-item " property="item" typeof="WebPage">
+                        <span property="name">Exploits</span>
+                    </a>
+                    <meta property="position" content="2">
+                </li>
+                
+                
+                
+                    
+                    
 
-    <main class="d-flex">
 
-        <!-- block sidebar -->
-            <nav id="sidebar" class="sidebar drac-bg-black">
-    <div class="custom-menu">
-        <button type="button" id="sidebarCollapse" class="btn btn-primary">
-            <i class="fa fa-bars"></i>
-            <span class="sr-only">Menu</span>
-        </button>
+<li property="itemListElement" typeof="ListItem">
+    <a href="#" class="menu-item" data-toggle="modal" data-target="#mkdocs_search_modal" property="item" typeof="SearchAction">
+        <i aria-hidden="true" class="fa fa-search"></i> <span property="name">Search</span>
+    </a>
+    <meta property="position" content="3">
+</li>
+                    
+            </ul>
+            
+        </nav>
     </div>
+</div>
+        
+    <div class="container">
+        <div class="terminal-mkdocs-main-grid"><aside id="terminal-mkdocs-side-panel"><nav>
+  
+    <ul class="terminal-mkdocs-side-nav-items">
+        
+          
 
-    <div class="p-4">
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+    
+        
+        <span class="
+
+    terminal-mkdocs-side-nav-item--active">Home</span>
+    
+    
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="eines/eines.html">Llistat d'eines</a>
+        
+    
+    
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
         
 
-        <div class="drac-text-center">
+        
             
-                <span class="drac-text drac-line-height drac-text-white">DocsCiber</span>
+    
+        
+        
             
-        </div>
-
-        <div class="drac-box flex-column">
-            <ul class="dot-ul">
-                <li><div class="dot-li drac-bg-cyan"></div></li>
-                <li><div class="dot-li drac-bg-green"></div></li>
-                <li><div class="dot-li drac-bg-orange"></div></li>
-                <li><div class="dot-li drac-bg-pink"></div></li>
-                <li><div class="dot-li drac-bg-purple"></div></li>
-                <li><div class="dot-li drac-bg-red"></div></li>
-                <li><div class="dot-li drac-bg-yellow"></div></li>
-            </ul>
-        </div>
-
-        <hr class="drac-divider" />
-
-        <!-- block menu -->
-        <ul class="mb-5 drac-list drac-list-none">
             
-            <li class="drac-box">
-                <a href="index.html"
-                    class=" active 
-                    drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-                    Home
-                </a>
-            </li>
-            <li class="drac-box">
-                <a href="eines.md"
-                    class="
-                    drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-                    Llistat d'eines
-                </a>
-            </li>
-            <li class="drac-box">
-                <a href="."
-                    class="
-                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-                    data-bs-toggle="collapse" data-bs-target="#eines-collapse" aria-expanded="false">
-                    Eines
-                </a>
-                <div class="collapse" id="eines-collapse">
-                    <ul class="mb-5 drac-list drac-list-none">
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#atacs_contrasenyes-collapse" aria-expanded="false">
-            Atacs_Contrasenyes
-        </a>
+            <span class="
+        
+    
 
-        <div class="collapse" id="atacs_contrasenyes-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#atacs_offline-collapse" aria-expanded="false">
-            Atacs_Offline
-        </a>
+    terminal-mkdocs-side-nav-item terminal-mkdocs-side-nav-section-no-index">Metodes</span>
+        
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
 
-        <div class="collapse" id="atacs_offline-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Hashcat
-        </a>
-    </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            John the Ripper
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#atacs_online-collapse" aria-expanded="false">
-            Atacs_Online
-        </a>
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
 
-        <div class="collapse" id="atacs_online-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Hydra
-        </a>
+    terminal-mkdocs-side-nav-item" href="metodes/reverseShells.html">Reverse Shells</a>
+        
+    
     </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Kerbrute
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#atacs-web-collapse" aria-expanded="false">
-            Atacs Web
-        </a>
+            
+        
+            
+            
 
-        <div class="collapse" id="atacs-web-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_web/dirb/dirb.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Dirb
-        </a>
-    </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_web/gobuster/gobuster.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Gobuster
-        </a>
-    </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Atacs_web/wpscan/wpscan.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            WpScan
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#connexio-collapse" aria-expanded="false">
-            Connexio
-        </a>
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
 
-        <div class="collapse" id="connexio-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Connexio/ncat/ncat.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Ncat
-        </a>
+    terminal-mkdocs-side-nav-item" href="metodes/kaliReverseShells.html">Kali Reverse Shells (scripts)</a>
+        
+    
     </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#enumeracio-collapse" aria-expanded="false">
-            Enumeracio
-        </a>
+            
+        
+            
+            
 
-        <div class="collapse" id="enumeracio-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Enumeracio/webcopilot/webcopilot.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Webcopilot
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#escaneig-collapse" aria-expanded="false">
-            Escaneig
-        </a>
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
 
-        <div class="collapse" id="escaneig-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Escaneig/masscan/masscan.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Masscan
-        </a>
+    terminal-mkdocs-side-nav-item" href="metodes/tipsShellsLinux.html">Tips Shells Linux</a>
+        
+    
     </li>
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Escaneig/nmap/nmap.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Nmap
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#esteganografia-collapse" aria-expanded="false">
-            Esteganografia
-        </a>
+            
+        
+            
+            
 
-        <div class="collapse" id="esteganografia-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Esteganografia/steghide/steghide.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Steghide
-        </a>
-    </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#privilege_escalation-collapse" aria-expanded="false">
-            Privilege_Escalation
-        </a>
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
 
-        <div class="collapse" id="privilege_escalation-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Privilege_Escalation/PEASS-ng/peass-ng.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            PEASS-ng
-        </a>
+    terminal-mkdocs-side-nav-item" href="metodes/atacsServeis.html">Atacs a Serveis</a>
+        
+    
     </li>
-            </ul>
-        </div>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="#" class="
-            drac-anchor-secondary btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-            data-bs-toggle="collapse" data-bs-target="#wireless-collapse" aria-expanded="false">
-            Wireless
-        </a>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+          
 
-        <div class="collapse" id="wireless-collapse">
-            <ul class="mb-5 drac-list drac-list-none">
-                    
-    <li class="drac-box-ternary">
-        <a href="eines/Wireless/h4rpy/h4rpy.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            H4rpy
-        </a>
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="exploits/exploits.html">Exploits</a>
+        
+    
+    
+    
+  </li>
+        
+          
+
+
+
+<li class="terminal-mkdocs-side-nav-li">
+    
+    
+        
+        
+
+        
+            
+    
+        
+        
+            
+            
+            <span class="
+        
+    
+
+    terminal-mkdocs-side-nav-item terminal-mkdocs-side-nav-section-no-index">Eines Externes</span>
+        
+    
+    
+        
+      
+        
+            <ul class="terminal-mkdocs-side-nav-li-ul">
+        
+            
+            
+
+             
+                <li class="terminal-mkdocs-side-nav-li-ul-li">
+    
+        
+        
+            <a class="
+
+    terminal-mkdocs-side-nav-item" href="einesExternes/reverse-shell-generator/index.html">Reverse Shell Generator</a>
+        
+    
     </li>
-            </ul>
-        </div>
-    </li>
-                    </ul>
-                </div>
-            </li>
-            <li class="drac-box">
-                <a href="."
-                    class="
-                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-                    data-bs-toggle="collapse" data-bs-target="#metodes-collapse" aria-expanded="false">
-                    Metodes
-                </a>
-                <div class="collapse" id="metodes-collapse">
-                    <ul class="mb-5 drac-list drac-list-none">
-                            
-    <li class="drac-box-ternary">
-        <a href="metodes/reverseShells.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Reverse Shells
-        </a>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="metodes/kaliReverseShells.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Kali Reverse Shells (scripts)
-        </a>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="metodes/tipsShellsLinux.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Tips Shells Linux
-        </a>
-    </li>
-                            
-    <li class="drac-box-ternary">
-        <a href="metodes/atacsServeis.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Atacs a Serveis
-        </a>
-    </li>
-                    </ul>
-                </div>
-            </li>
-            <li class="drac-box">
-                <a href="exploits/exploits.html"
-                    class="
-                    drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-                    Exploits
-                </a>
-            </li>
-            <li class="drac-box">
-                <a href="."
-                    class="
-                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
-                    data-bs-toggle="collapse" data-bs-target="#eines-externes-collapse" aria-expanded="false">
-                    Eines Externes
-                </a>
-                <div class="collapse" id="eines-externes-collapse">
-                    <ul class="mb-5 drac-list drac-list-none">
-                            
-    <li class="drac-box-ternary">
-        <a href="einesExternes/reverse-shell-generator/index.html"
-            class="
-            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
-            Reverse Shell Generator
-        </a>
-    </li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
-        <!-- endblock -->
-    </div>
+            
+            
+    </ul>
+        
+    
+  </li>
+        
+    </ul>
+  
+</nav><hr>
+<nav>
+    <ul>
+        <li><a href="#docs-tools-ciber">Docs tools ciber</a></li>
+        <li><a href="#eines">Eines</a></li><li><a href="#exploits">Exploits</a></li><li><a href="#metodes">Metodes</a></li><li><a href="#extracio-de-ram">Extració de Ram</a></li><li><a href="#progress">Progress</a></li>
+    </ul>
 </nav>
-        <!-- endblock -->
-
-        <nav class="divider drac-bg-purple-cyan"></nav>
-
-        <div class="content">
-            <!-- block header -->
-                <header>
-    <nav class="navbar navbar-expand-xl drac-bg-purple">
-        <div class="container-fluid">
-            
-            <button class="navbar-toggler w-100 text-center" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsMenu"
-                aria-controls="navbarsMenu" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse flex-column ml-auto" id="navbarsMenu">
-                <ul class="navbar-nav text-md-center">
-
-                    <!-- block preview -->
-                    <li class="nav-item">
-                            
-        <div class="container">
-            <div class="row row-preview">
-                <div class="col">
-                    <a 
-                        class="btn-preview drac-btn drac-text-white--hover disabled">
-                        <i class="fa fa-arrow-left"></i> Previous
-                    </a>
-                </div>
-                <div class="col">
-                    <a href="eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.html"
-                        class="btn-preview drac-btn drac-btn-outline drac-text-white drac-text-cyan-green--hover" style="padding-left: 3%;">
-                        Next <i class="fa fa-arrow-right"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-                    </li>
-                    <!--  endblock -->
-
-                    <!-- block search -->
-                    <li class="nav-item"><div role="search" class="search-box">
-	<form id="rtd-search-form" class="wy-form" action="./search.html" method="get">
-		<input type="text" name="q" class="drac-input drac-input-search drac-input-white drac-text-white drac-bg-black-secondary"
-		placeholder="Search docs" title="Type search term here" />
-	</form>
-</div>
-                    </li>
-                    <!--  endblock -->
-
-                    <!-- block source -->
-                    <li class="nav-item">
-                        
-                    </li>
-                    <!--  endblock -->
-
-                </ul>
-            </div>
-
-        </div>
-    </nav>
-</header>
-            <!-- endblock -->
-
-            <!-- block content -->
-                <section class="p-md-5 section-content">
-    <article>
-        <p><h1 id="docs-tools-ciber">Docs tools ciber</h1>
+</aside>
+            <main id="terminal-mkdocs-main-content">
+<section id="mkdocs-terminal-content">
+    <h1 id="docs-tools-ciber">Docs tools ciber</h1>
 <h3 id="eines">Eines</h3>
 <p><a href="eines/eines.html">Eines</a></p>
 <p><a href="einesExternes/reverse-shell-generator/index.html">Eines Externes</a></p>
@@ -486,31 +368,50 @@
 <h3 id="metodes">Metodes</h3>
 <p><a href="metodes/kaliReverseShells.html">WebShells Kali</a></p>
 <p><a href="metodes/reverseShells.html">Reverse Shells</a></p>
-<p><a href="metodes/tipsShellsLinux.html">Shells de Linux</a></p></p>
-    </article>
+<p><a href="metodes/tipsShellsLinux.html">Shells de Linux</a></p>
+<p><br></p>
+<h3 id="extracio-de-ram">Extració de Ram</h3>
+<p><a href="extraccioRam/Linux_LiME/ExtreureRamLiME.html">Ubuntu Lime</a></p>
+<p><br></p>
+<h3 id="progress">Progress</h3>
+<p><a href="progress.html">siteProgress</a></p>
 </section>
-            <!-- endblock -->
 
-            <!-- block footer -->
-                <footer>
-    <div class="d-flex flex-sm-row justify-content-between py-2 border-top drac-text-black drac-bg-cyan-green">
-        <a href="https://github.com/dracula/mkdocs" target="_blank" style="padding-left: 1%;"
-            class="footer-text drac-anchor drac-text-black drac-text-purple--hover">
-            Made with Dracula Theme for MkDocs
-        </a>
+            </main>
+        </div>
+        <hr><footer>
+    <div class="terminal-mkdocs-footer-grid">
+        <div id="terminal-mkdocs-footer-copyright-info">
+             Site built with <a href="http://www.mkdocs.org">MkDocs</a> and <a href="https://github.com/ntno/mkdocs-terminal">Terminal for MkDocs</a>.
+        </div>
     </div>
 </footer>
-            <!-- endblock -->
+    </div>
+
+    
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="alertdialog" aria-modal="true" aria-labelledby="searchModalLabel">
+    <div class="modal-dialog modal-lg" role="search">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="searchModalLabel">Search</h5>
+                <button type="button" class="close btn btn-default btn-ghost" data-dismiss="modal"><span aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p id="searchInputLabel">Type to start searching</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" aria-labelledby="searchInputLabel" placeholder="" id="mkdocs-search-query" title="Please enter search terms here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No document matches found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
         </div>
-
-    </main>
-
-        <script>var base_url = '.';</script>
-        <script src="assets/js/jquery-3.3.1.slim.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/js/mkdocs.js"></script>
-			<script src="search/main.js" defer></script>
-
+    </div>
+</div>
+    
+    
 </body>
 
 </html>
