@@ -12,6 +12,7 @@
 #### Low Latency
 
 6.8.0
+
 * [6.8.0-31-lowlatency](./LowLatency/6.8.0-lowlatency/lime-6.8.0-31-lowlatency.ko)
 * [6.8.0-35-lowlatency](./LowLatency/6.8.0-lowlatency/lime-6.8.0-35-lowlatency.ko)
 

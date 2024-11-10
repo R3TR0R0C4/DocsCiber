@@ -22,3 +22,15 @@
 [Reverse Shells](metodes/reverseShells.md)
 
 [Shells de Linux](metodes/tipsShellsLinux.md)
+
+<br>
+
+### Extració de Ram
+
+[Ubuntu Lime](extraccioRam/Linux_LiME/ExtreureRamLiME.md)
+
+<br>
+
+### Progress
+
+[siteProgress](progress.md)
