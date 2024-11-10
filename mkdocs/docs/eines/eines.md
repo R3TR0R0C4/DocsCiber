@@ -1,7 +1,5 @@
 # Docs tools ciber
 
-[HOME](README.md)
-
 #### Atacs de Contrasenyes Offline
    - [Hashcat](./Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md) *Cracking de hashes*
    - [John the Ripper](./Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md) *Cracking de hashes (només cpu)*

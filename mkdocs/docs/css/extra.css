@@ -1,0 +1,83 @@
+.container {
+    margin-left: 5vw !important; 
+    margin-right: 5vw !important;
+    max-width: 80%;
+}
+
+body {
+    background-color: #212830; /* Background color */
+    color: #ffffff; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Heading color */
+}
+
+h1{
+    font-size: 30px !important;
+    font-weight:bolder !important;
+}
+
+h3{
+    font-size: 22px !important;
+    font-weight: 200 !important;
+    margin-bottom: 1% !important;
+}
+
+h4{
+    margin-bottom: 1% !important;
+}
+
+ul{
+    margin-top: 0% !important;
+}
+
+a {
+    color: #478be6 !important; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:active {
+    color: #000000; /* Black color when the link is clicked */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px; /* Space between paragraphs */
+}
+
+em{
+    color:rgb(170, 170, 170) !important; 
+}
+
+code {
+    background-color: #696c706c; /* Inline code background */
+    color: #e0e0e0; /* Purple text color for inline code */
+    padding: 2px 4px; /* Padding around inline code */
+    border-radius: 3px; /* Rounded corners */
+}
+
+section:mkdocs-terminal-content {
+    padding-left: 100px !important;
+}
+
+.custom-page-class h1 {
+    color: #3498db !important; /* Change color */
+}
+/*CSS especific pàgina atacsServeis.md*/
+.atacsServeis_h1 {
+    color: #ffffff;
+}
+
+.atacsServeis_h2 {
+    margin-bottom: 0px !important;
+    font-size: 17px !important; 
+
+}
+.atacsServeis_ul {
+    color:blue;
+}

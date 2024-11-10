@@ -1,35 +1,40 @@
 site_name: DocsCiber
-theme: dracula
+theme: terminal
 use_directory_urls: false
+
+extra_css:
+  - /css/extra.css
+markdown_extensions:
+  - attr_list
 
 nav:
     - Home: README.md
-    - Llistat d'eines: eines.md
-    - Eines:
-      - Atacs_Contrasenyes:
-          - Atacs_Offline:
-              - Hashcat: eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md
-              - John the Ripper: eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
-          - Atacs_Online:
-              - Hydra: eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
-              - Kerbrute: eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
-      - Atacs Web:
-          - Dirb: eines/Atacs_web/dirb/dirb.md
-          - Gobuster: eines/Atacs_web/gobuster/gobuster.md
-          - WpScan: eines/Atacs_web/wpscan/wpscan.md
-      - Connexio:
-          - Ncat: eines/Connexio/ncat/ncat.md
-      - Enumeracio:
-          - Webcopilot: eines/Enumeracio/webcopilot/webcopilot.md
-      - Escaneig:
-          - Masscan: eines/Escaneig/masscan/masscan.md
-          - Nmap: eines/Escaneig/nmap/nmap.md
-      - Esteganografia:
-          - Steghide: eines/Esteganografia/steghide/steghide.md
-      - Privilege_Escalation:
-          - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
-      - Wireless:
-          - H4rpy: eines/Wireless/h4rpy/h4rpy.md
+    - Llistat d'eines: eines/eines.md
+#    - Eines:
+#      - Atacs_Contrasenyes:
+#          - Atacs_Offline:
+#              - Hashcat: eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md
+#              - John the Ripper: eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
+#          - Atacs_Online:
+#              - Hydra: eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
+#              - Kerbrute: eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
+#      - Atacs Web:
+#          - Dirb: eines/Atacs_web/dirb/dirb.md
+#          - Gobuster: eines/Atacs_web/gobuster/gobuster.md
+#          - WpScan: eines/Atacs_web/wpscan/wpscan.md
+#      - Connexio:
+#          - Ncat: eines/Connexio/ncat/ncat.md
+#      - Enumeracio:
+#          - Webcopilot: eines/Enumeracio/webcopilot/webcopilot.md
+#      - Escaneig:
+#          - Masscan: eines/Escaneig/masscan/masscan.md
+#          - Nmap: eines/Escaneig/nmap/nmap.md
+#      - Esteganografia:
+#          - Steghide: eines/Esteganografia/steghide/steghide.md
+#      - Privilege_Escalation:
+#          - PEASS-ng: eines/Privilege_Escalation/PEASS-ng/peass-ng.md
+#      - Wireless:
+#          - H4rpy: eines/Wireless/h4rpy/h4rpy.md
     - Metodes:
        - Reverse Shells: metodes/reverseShells.md
        - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
