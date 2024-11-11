@@ -1,4 +1,4 @@
-# Kernels Ubuntu 23
+# Kernels Ubuntu 23.10.1
 
 ## Generic
 

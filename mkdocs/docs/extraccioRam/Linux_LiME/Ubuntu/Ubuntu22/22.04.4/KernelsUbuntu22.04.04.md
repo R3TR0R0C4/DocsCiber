@@ -1,4 +1,4 @@
-# Kernels Ubuntu 22
+# Kernels Ubuntu 22.04.4
 
 ## Generic
 

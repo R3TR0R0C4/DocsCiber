@@ -1,4 +1,4 @@
-# Kernels Ubuntu 24
+# Kernels Ubuntu 24.04
 
 ## Generic
 
