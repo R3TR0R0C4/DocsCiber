@@ -8,15 +8,15 @@ markdown_extensions:
   - attr_list
 
 nav:
-    - Home: README.md
-    - Llistat d'eines: eines/eines.md
-    - Reverse Shells: metodes/reverseShells.md
-    - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
-    - Tips Shells Linux: metodes/tipsShellsLinux.md
-    - Atacs a Serveis: metodes/atacsServeis.md
-    - Exploits: exploits/exploits.md
-    - Eines Externes:
-       - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
+  - Home: README.md
+  - Llistat d'eines: eines/eines.md
+  - Reverse Shells: metodes/reverseShells.md
+  - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
+  - Tips Shells Linux: metodes/tipsShellsLinux.md
+  - Atacs a Serveis: metodes/atacsServeis.md
+  - Exploits: exploits/exploits.md
+  - Eines Externes:
+    - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
 
 
 exclude_docs: |

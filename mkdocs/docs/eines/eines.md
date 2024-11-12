@@ -21,6 +21,7 @@
 #### Escaneig
    - [Nmap](./Escaneig/nmap/nmap.md) *Scanner d'IPs amb scripts*
    - [Masscan](./Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
+   - [WhatWeb](./Escaneig/whatweb/whatweb.md) *Escaneig tecnologies usades*
 
 #### Esteganografia
    - [Steghide](./Esteganografia/steghide/steghide.md) *Esteganografia amb fitxers .png*
