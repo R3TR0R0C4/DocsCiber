@@ -2,71 +2,139 @@
 
 ## Generic
 
-linux-image-5.15.0-100-generic
-linux-image-5.15.0-101-generic
-linux-image-5.15.0-102-generic
-linux-image-5.15.0-105-generic
-linux-image-5.15.0-106-generic
-linux-image-5.15.0-107-generic
-linux-image-5.15.0-112-generic
-linux-image-5.15.0-113-generic
-linux-image-5.15.0-116-generic
-linux-image-5.15.0-117-generic
-linux-image-5.15.0-118-generic
-linux-image-5.15.0-119-generic
-linux-image-5.15.0-121-generic
-linux-image-5.15.0-122-generic
-linux-image-5.15.0-124-generic
-linux-image-5.15.0-125-generic
-linux-image-5.15.0-72-generic
-linux-image-5.15.0-73-generic
-linux-image-5.15.0-75-generic
-linux-image-5.15.0-78-generic
-linux-image-5.15.0-79-generic
-linux-image-5.15.0-82-generic
-linux-image-5.15.0-83-generic
-linux-image-5.15.0-84-generic
-linux-image-5.15.0-86-generic
-linux-image-5.15.0-87-generic
-linux-image-5.15.0-88-generic
-linux-image-5.15.0-89-generic
-linux-image-5.15.0-91-generic
-linux-image-5.15.0-92-generic
-linux-image-5.15.0-94-generic
-linux-image-5.15.0-97-generic
-linux-image-5.19.0-41-generic
-linux-image-5.19.0-42-generic
-linux-image-5.19.0-43-generic
-linux-image-5.19.0-45-generic
-linux-image-5.19.0-46-generic
-linux-image-5.19.0-50-generic
-linux-image-6.2.0-25-generic
-linux-image-6.2.0-26-generic
-linux-image-6.2.0-31-generic
-linux-image-6.2.0-32-generic
-linux-image-6.2.0-33-generic
-linux-image-6.2.0-34-generic
-linux-image-6.2.0-35-generic
-linux-image-6.2.0-36-generic
-linux-image-6.2.0-37-generic
-linux-image-6.2.0-39-generic
-linux-image-6.5.0-14-generic
-linux-image-6.5.0-15-generic
-linux-image-6.5.0-17-generic
-linux-image-6.5.0-18-generic
-linux-image-6.5.0-21-generic
-linux-image-6.5.0-25-generic
-linux-image-6.5.0-26-generic
-linux-image-6.5.0-27-generic
-linux-image-6.5.0-28-generic
-linux-image-6.5.0-35-generic
-linux-image-6.5.0-41-generic
-linux-image-6.5.0-44-generic
-linux-image-6.5.0-45-generic
-linux-image-6.8.0-38-generic
-linux-image-6.8.0-39-generic
-linux-image-6.8.0-40-generic
-linux-image-6.8.0-45-generic
-linux-image-6.8.0-47-generic
-linux-image-6.8.0-48-generic
+sudo apt install -y linux-image-5.15.0-100-generic
+sudo apt install -y linux-image-5.15.0-101-generic
+sudo apt install -y linux-image-5.15.0-102-generic
+sudo apt install -y linux-image-5.15.0-105-generic
+sudo apt install -y linux-image-5.15.0-106-generic
+sudo apt install -y linux-image-5.15.0-107-generic
+sudo apt install -y linux-image-5.15.0-112-generic
+sudo apt install -y linux-image-5.15.0-113-generic
+sudo apt install -y linux-image-5.15.0-116-generic
+sudo apt install -y linux-image-5.15.0-117-generic
+sudo apt install -y linux-image-5.15.0-118-generic
+sudo apt install -y linux-image-5.15.0-119-generic
+sudo apt install -y linux-image-5.15.0-121-generic
+sudo apt install -y linux-image-5.15.0-122-generic
+sudo apt install -y linux-image-5.15.0-124-generic
+sudo apt install -y linux-image-5.15.0-125-generic
+sudo apt install -y linux-image-5.15.0-72-generic
+sudo apt install -y linux-image-5.15.0-73-generic
+sudo apt install -y linux-image-5.15.0-75-generic
+sudo apt install -y linux-image-5.15.0-78-generic
+sudo apt install -y linux-image-5.15.0-79-generic
+sudo apt install -y linux-image-5.15.0-82-generic
+sudo apt install -y linux-image-5.15.0-83-generic
+sudo apt install -y linux-image-5.15.0-84-generic
+sudo apt install -y linux-image-5.15.0-86-generic
+sudo apt install -y linux-image-5.15.0-87-generic
+sudo apt install -y linux-image-5.15.0-88-generic
+sudo apt install -y linux-image-5.15.0-89-generic
+sudo apt install -y linux-image-5.15.0-91-generic
+sudo apt install -y linux-image-5.15.0-92-generic
+sudo apt install -y linux-image-5.15.0-94-generic
+sudo apt install -y linux-image-5.15.0-97-generic
+sudo apt install -y linux-image-5.19.0-41-generic
+sudo apt install -y linux-image-5.19.0-42-generic
+sudo apt install -y linux-image-5.19.0-43-generic
+sudo apt install -y linux-image-5.19.0-45-generic
+sudo apt install -y linux-image-5.19.0-46-generic
+sudo apt install -y linux-image-5.19.0-50-generic
+sudo apt install -y linux-image-6.2.0-25-generic
+sudo apt install -y linux-image-6.2.0-26-generic
+sudo apt install -y linux-image-6.2.0-31-generic
+sudo apt install -y linux-image-6.2.0-32-generic
+sudo apt install -y linux-image-6.2.0-33-generic
+sudo apt install -y linux-image-6.2.0-34-generic
+sudo apt install -y linux-image-6.2.0-35-generic
+sudo apt install -y linux-image-6.2.0-36-generic
+sudo apt install -y linux-image-6.2.0-37-generic
+sudo apt install -y linux-image-6.2.0-39-generic
+sudo apt install -y linux-image-6.5.0-14-generic
+sudo apt install -y linux-image-6.5.0-15-generic
+sudo apt install -y linux-image-6.5.0-17-generic
+sudo apt install -y linux-image-6.5.0-18-generic
+sudo apt install -y linux-image-6.5.0-21-generic
+sudo apt install -y linux-image-6.5.0-25-generic
+sudo apt install -y linux-image-6.5.0-26-generic
+sudo apt install -y linux-image-6.5.0-27-generic
+sudo apt install -y linux-image-6.5.0-28-generic
+sudo apt install -y linux-image-6.5.0-35-generic
+sudo apt install -y linux-image-6.5.0-41-generic
+sudo apt install -y linux-image-6.5.0-44-generic
+sudo apt install -y linux-image-6.5.0-45-generic
+sudo apt install -y linux-image-6.8.0-38-generic
+sudo apt install -y linux-image-6.8.0-39-generic
+sudo apt install -y linux-image-6.8.0-40-generic
+sudo apt install -y linux-image-6.8.0-45-generic
+sudo apt install -y linux-image-6.8.0-47-generic
+sudo apt install -y linux-image-6.8.0-48-generic
 
+
+sudo apt install -y linux-headers-5.15.0-100-generic
+sudo apt install -y linux-headers-5.15.0-101-generic
+sudo apt install -y linux-headers-5.15.0-102-generic
+sudo apt install -y linux-headers-5.15.0-105-generic
+sudo apt install -y linux-headers-5.15.0-106-generic
+sudo apt install -y linux-headers-5.15.0-107-generic
+sudo apt install -y linux-headers-5.15.0-112-generic
+sudo apt install -y linux-headers-5.15.0-113-generic
+sudo apt install -y linux-headers-5.15.0-116-generic
+sudo apt install -y linux-headers-5.15.0-117-generic
+sudo apt install -y linux-headers-5.15.0-118-generic
+sudo apt install -y linux-headers-5.15.0-119-generic
+sudo apt install -y linux-headers-5.15.0-121-generic
+sudo apt install -y linux-headers-5.15.0-122-generic
+sudo apt install -y linux-headers-5.15.0-124-generic
+sudo apt install -y linux-headers-5.15.0-125-generic
+sudo apt install -y linux-headers-5.15.0-72-generic
+sudo apt install -y linux-headers-5.15.0-73-generic
+sudo apt install -y linux-headers-5.15.0-75-generic
+sudo apt install -y linux-headers-5.15.0-78-generic
+sudo apt install -y linux-headers-5.15.0-79-generic
+sudo apt install -y linux-headers-5.15.0-82-generic
+sudo apt install -y linux-headers-5.15.0-83-generic
+sudo apt install -y linux-headers-5.15.0-84-generic
+sudo apt install -y linux-headers-5.15.0-86-generic
+sudo apt install -y linux-headers-5.15.0-87-generic
+sudo apt install -y linux-headers-5.15.0-88-generic
+sudo apt install -y linux-headers-5.15.0-89-generic
+sudo apt install -y linux-headers-5.15.0-91-generic
+sudo apt install -y linux-headers-5.15.0-92-generic
+sudo apt install -y linux-headers-5.15.0-94-generic
+sudo apt install -y linux-headers-5.15.0-97-generic
+sudo apt install -y linux-headers-5.19.0-41-generic
+sudo apt install -y linux-headers-5.19.0-42-generic
+sudo apt install -y linux-headers-5.19.0-43-generic
+sudo apt install -y linux-headers-5.19.0-45-generic
+sudo apt install -y linux-headers-5.19.0-46-generic
+sudo apt install -y linux-headers-5.19.0-50-generic
+sudo apt install -y linux-headers-6.2.0-25-generic
+sudo apt install -y linux-headers-6.2.0-26-generic
+sudo apt install -y linux-headers-6.2.0-31-generic
+sudo apt install -y linux-headers-6.2.0-32-generic
+sudo apt install -y linux-headers-6.2.0-33-generic
+sudo apt install -y linux-headers-6.2.0-34-generic
+sudo apt install -y linux-headers-6.2.0-35-generic
+sudo apt install -y linux-headers-6.2.0-36-generic
+sudo apt install -y linux-headers-6.2.0-37-generic
+sudo apt install -y linux-headers-6.2.0-39-generic
+sudo apt install -y linux-headers-6.5.0-14-generic
+sudo apt install -y linux-headers-6.5.0-15-generic
+sudo apt install -y linux-headers-6.5.0-17-generic
+sudo apt install -y linux-headers-6.5.0-18-generic
+sudo apt install -y linux-headers-6.5.0-21-generic
+sudo apt install -y linux-headers-6.5.0-25-generic
+sudo apt install -y linux-headers-6.5.0-26-generic
+sudo apt install -y linux-headers-6.5.0-27-generic
+sudo apt install -y linux-headers-6.5.0-28-generic
+sudo apt install -y linux-headers-6.5.0-35-generic
+sudo apt install -y linux-headers-6.5.0-41-generic
+sudo apt install -y linux-headers-6.5.0-44-generic
+sudo apt install -y linux-headers-6.5.0-45-generic
+sudo apt install -y linux-headers-6.8.0-38-generic
+sudo apt install -y linux-headers-6.8.0-39-generic
+sudo apt install -y linux-headers-6.8.0-40-generic
+sudo apt install -y linux-headers-6.8.0-45-generic
+sudo apt install -y linux-headers-6.8.0-47-generic
+sudo apt install -y linux-headers-6.8.0-48-generic
