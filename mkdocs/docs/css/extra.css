@@ -55,10 +55,12 @@ em{
 }
 
 code {
-    background-color: #696c706c; /* Inline code background */
-    color: #e0e0e0; /* Purple text color for inline code */
-    padding: 2px 4px; /* Padding around inline code */
-    border-radius: 3px; /* Rounded corners */
+    background-color: #424346; /* Background color of the code block */
+    color: #ffffff; /* Text color */
+    padding: 2px; /* Padding inside the code block */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Optional shadow */
+    font-family: 'Courier New', Courier, monospace;
 }
 
 section:mkdocs-terminal-content {
@@ -68,6 +70,7 @@ section:mkdocs-terminal-content {
 .custom-page-class h1 {
     color: #3498db !important; /* Change color */
 }
+
 /*CSS especific pàgina atacsServeis.md*/
 .atacsServeis_h1 {
     color: #ffffff;
@@ -80,4 +83,11 @@ section:mkdocs-terminal-content {
 }
 .atacsServeis_ul {
     color:blue;
+}
+
+
+.Reverse_Shells_Code_Block{
+    width: 1%; /* Occupy 50% of the screen width */
+    max-width: 800px; /* Optional: Set a max width */
+    overflow-x: auto; /* Enable horizontal scrolling */
 }
