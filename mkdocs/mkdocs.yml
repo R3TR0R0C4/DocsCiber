@@ -8,31 +8,31 @@ markdown_extensions:
   - attr_list
 
 nav:
-    - Home: README.md
-    - Llistat d'eines: eines/eines.md
-    - Reverse Shells: metodes/reverseShells.md
-    - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
-    - Tips Shells Linux: metodes/tipsShellsLinux.md
-    - Atacs a Serveis: metodes/atacsServeis.md
-    - Exploits: exploits/exploits.md
-    - Eines Externes:
-       - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
+  - Home: README.md
+  - Llistat d'eines: eines/eines.md
+  - Reverse Shells: metodes/reverseShells.md
+  - Kali Reverse Shells (scripts): metodes/kaliReverseShells.md
+  - Tips Shells Linux: metodes/tipsShellsLinux.md
+  - Atacs a Serveis: metodes/atacsServeis.md
+  - Exploits: exploits/exploits.md
+  - Eines Externes:
+    - Reverse Shell Generator: einesExternes/reverse-shell-generator/index.html
 
 
 exclude_docs: |
     siteProgress.md
     metodes/kali_Integrated_Shells/seclists/Vtiger/README.md
-    eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md
-    eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
-    eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
-    eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
-    eines/Atacs_web/dirb/dirb.md
-    eines/Atacs_web/gobuster/gobuster.md
-    eines/Atacs_web/wpscan/wpscan.md
-    eines/Connexio/ncat/ncat.md
-    eines/Enumeracio/webcopilot/webcopilot.md
-    eines/Escaneig/masscan/masscan.md
-    eines/Escaneig/nmap/nmap.md
-    eines/Esteganografia/steghide/steghide.md
-    eines/Privilege_Escalation/PEASS-ng/peass-ng.md
-    eines/Wireless/h4rpy/h4rpy.md
+#    eines/Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md
+#    eines/Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md
+#    eines/Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md
+#    eines/Atacs_Contrasenyes/Atacs_Online/kerbrute/kerbrute.md
+#    eines/Atacs_web/dirb/dirb.md
+#    eines/Atacs_web/gobuster/gobuster.md
+#    eines/Atacs_web/wpscan/wpscan.md
+#    eines/Connexio/ncat/ncat.md
+#    eines/Enumeracio/webcopilot/webcopilot.md
+#    eines/Escaneig/masscan/masscan.md
+#    eines/Escaneig/nmap/nmap.md
+#    eines/Esteganografia/steghide/steghide.md
+#    eines/Privilege_Escalation/PEASS-ng/peass-ng.md
+#    eines/Wireless/h4rpy/h4rpy.md
