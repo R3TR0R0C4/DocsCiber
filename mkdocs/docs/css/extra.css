@@ -91,3 +91,7 @@ section:mkdocs-terminal-content {
     max-width: 800px; /* Optional: Set a max width */
     overflow-x: auto; /* Enable horizontal scrolling */
 }
+
+table, td, th{
+    border-color: #212830   !important;
+}

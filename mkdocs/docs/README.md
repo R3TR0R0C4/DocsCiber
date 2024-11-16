@@ -36,3 +36,13 @@
 ### Progress
 
 [siteProgress](progress.md)
+
+
+<br>
+
+<br>
+
+### Links
+
+| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R3TR0R0C4) | [![WiGLE](https://wigle.net/bi/otuF_pcuLa1F_ATENTe6pw.png)](https://wigle.net) | [![TryHackMe! Badge](https://tryhackme-badges.s3.amazonaws.com/rocanico5.png)](https://tryhackme.com/r/p/rocanico5) |
+|---|---|---|
