@@ -1,3 +1,0 @@
-# Hydra
-
-![](./img/hydraLogo.png)

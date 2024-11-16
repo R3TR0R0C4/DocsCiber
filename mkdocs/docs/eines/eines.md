@@ -1,33 +1,30 @@
-# Docs tools ciber
+# Eines
 
-#### Atacs de Contrasenyes Offline
-   - [Hashcat](./Atacs_Contrasenyes/Atacs_Offline/hashcat/hashcat.md) *Cracking de hashes*
-   - [John the Ripper](./Atacs_Contrasenyes/Atacs_Offline/john_the_ripper/johntheripper.md) *Cracking de hashes (només cpu)*
+#### Cracking de Contrasenyes
+   - [Hashcat](./Cracking_Contrasenyes/hashcat/hashcat.md)  *Cracking de contrasenyes amb accés a GPU.*
+   - [John the Ripper](./Cracking_Contrasenyes/john_the_ripper/johntheripper.md)  *Cracking de contrasenyes.*
 
-#### Atacs de Contrasenyes Online
-   - [Hydra](./Atacs_Contrasenyes/Atacs_Online/hydra/hydra.md) *Atacs de diccionari a logins online*
 
-#### Enumeració Web
-   - [Dirb](./EnumeracioWeb/dirb/dirb.md) *Web Crawler*
-   - [Gobuster](./EnumeracioWeb/gobuster/gobuster.md) *Web Crawler*
-   - [WebCopilot](./EnumeracioWeb/webcopilot/webcopilot.md) *Enumeració de subdominis*
+#### Atac de Força Bruta i de Connexió
+   - [Hydra](./Forca_Bruta_i_Connexio/hydra/hydra.md) *Atacs de força bruta en inicis de sessió*
+   - [ncat](./Forca_Bruta_i_Connexio/ncat/ncat.md) *Utilitat de connexió en xarxa, usable per escaneig simple, connexió i escolta*
 
-#### Escaneig
-   - [Nmap](./Escaneig/nmap/nmap.md) *Scanner d'IPs amb scripts*
-   - [Masscan](./Escaneig/masscan/masscan.md) *Scanner d'IPs massiu*
-   - [WhatWeb](./Escaneig/whatweb/whatweb.md) *Escaneig tecnologies usades*
 
-#### Escaneig Vulnerabilitats Web
-   - [Wpscan](./EscaneigVulnWeb/wpscan/wpscan.md) *Escaner vulnerabilitats de WordPress i extensions*
+#### Anàlisi i Enumeració d'Aplicacions Web
+   - [Dirb](./Analisis_Enumeracio_Web/dirb/dirb.md) *Escàner de contingut visible (i ocult) en web.*
+   - [Gobuster](./Analisis_Enumeracio_Web/gobuster/gobuster.md) *Eina per forçar la cerca de URI (directoris i fitxers) en serveis web.*
+   - [WebCopilot](./Analisis_Enumeracio_Web/webcopilot/webcopilot.md) *Anàlisis i enumeració de subdominis.*
+   - [WhatWeb](./Analisis_Enumeracio_Web/whatweb/whatweb.md) *Eina per identificar les tecnologies web utilitzades per un objectiu.*
+   - [Wpscan](./Analisis_Enumeracio_Web/wpscan/wpscan.md) *Especialitzada en l'escaneig d'instal·lacions de WordPress vulnerables.*
+
+
+#### Escaneig i Enumeració de Xarxes
+   - [Nmap](./Analisis_Enumeracio_Xarxa/nmap/nmap.md) *Eina d'escaneig de xarxes i hosts.*
+   - [Masscan](./Analisis_Enumeracio_Xarxa/masscan/masscan.md) *Escàner de ports ultra-ràpid per escanejar xarxes grans a gran velocitat.*
+
 
 #### Esteganografia
-   - [Steghide](./Esteganografia/steghide/steghide.md) *Esteganografia amb fitxers .png*
-  
-#### Escalada de Privilegis
-   - [Peass-ng](./Privilege_Escalation/PEASS-ng/peass-ng.md) *Recull d'eines de Privilege Escalation*
+   - [Steghide](./Esteganografia/steghide/steghide.md) *Eina per amagar i extreure dades de fitxers d'imatge i d'àudio.*
 
-#### Connexió
-   - [ncat](./Connexio/ncat/ncat.md) *Realitzar connexións, i escoltar a ports*
-
-#### Wireless
-   - [H4rpy](./Wireless/h4rpy/h4rpy.md) *Framework d'atac WPA/WPA2 amb Aircrack-ng*
+#### Escalada de Privilegis i Post-explotació
+   - [Peass-ng](./Post_Explotacio_PVE/PEASS-ng/peass-ng.md) *Conjunt d'scripts per escaneig de vulnerabilitats Escalada de privilegis.*

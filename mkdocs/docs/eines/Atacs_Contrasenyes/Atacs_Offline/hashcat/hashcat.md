@@ -1,3 +1,0 @@
-# hashcat
-
-![](./img/hashcatLogo.png)
