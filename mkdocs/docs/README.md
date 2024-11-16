@@ -5,7 +5,7 @@
 
 [Eines d'atac](eines/eines.md)
 
-[Eines Externes](einesExternes/reverse-shell-generator/index.html)
+[Reverse Shell Generator](einesExternes/reverse-shell-generator/index.html)
 
 <br>
 
@@ -16,6 +16,8 @@
 <br>
 
 ### Metodes
+
+[Atacs a Serveis](metodes/atacsServeis.md)
 
 [WebShells Kali](metodes/kaliReverseShells.md)
 
