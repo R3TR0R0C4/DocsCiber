@@ -1,20 +1,20 @@
 # Pàgines
  
- - [ ] hashcat
+ - [X] hashcat
  - [X] john the ripper
- - [ ] hydra
+ - [X] hydra
  - [X] kerbrute
  - [X] ncat
  - [X] dirb
  - [X] gobuster
- - [ ] webcopilot
+ - [X] webcopilot
  - [X] nmap
  - [X] masscan
  - [X] whatweb
  - [X] wpscan
  - [X] steghide
- - [ ] peass-ng
- - [ ] h4rpy
+ - [X] sqlmap
+ - [X] peass-ng
 
 <br>
 
@@ -32,4 +32,4 @@
  - [X] Arreglar links un cop fet el build
  - [X] Dracula o readthedocs
  - [X] Canvi a Terminal
- - [] CSS custom per terminal en mode obscur (en procés)
+ - [X] CSS custom per terminal en mode obscur (en procés)
