@@ -17,6 +17,8 @@
    - [WhatWeb](./Analisis_Enumeracio_Web/whatweb/whatweb.md) *Eina per identificar les tecnologies web utilitzades per un objectiu.*
    - [Wpscan](./Analisis_Enumeracio_Web/wpscan/wpscan.md) *Especialitzada en l'escaneig d'instal·lacions de WordPress vulnerables.*
 
+#### Injecció SQL
+   - [SQLMap](./Injeccio_SQL/sqlmap/sqlmap.md) *Detecció i explotació de vulnerabilitats SQL.*
 
 #### Escaneig i Enumeració de Xarxes
    - [Nmap](./Analisis_Enumeracio_Xarxa/nmap/nmap.md) *Eina d'escaneig de xarxes i hosts.*
