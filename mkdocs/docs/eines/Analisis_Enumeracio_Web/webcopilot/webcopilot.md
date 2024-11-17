@@ -14,6 +14,7 @@ webcopilot [opcions] [URL | objectiu]
 ### Paràmetres Comuns
 
 Opcions bàsiques:
+
 - `-u <URL>`, `--url <URL>` : Especifica la URL de l'objectiu per analitzar.
 - `-m <mode>`, `--mode <mode>` : Defineix el mode d'anàlisi (ex: `scan`, `audit`, `report`).
 - `-t <nombre>`, `--threads <nombre>` : Nombre de fils paral·lels per optimitzar la velocitat d'escaneig.
@@ -22,6 +23,7 @@ Opcions bàsiques:
 - `--proxy <proxy>` : Utilitza un servidor proxy per a les connexions.
 
 Modes disponibles:
+
 - `scan` : Escaneig bàsic de l'objectiu per trobar vulnerabilitats.
 - `audit` : Auditoria en profunditat per a una anàlisi més exhaustiva.
 - `report` : Generació d'informes detallats de l'anàlisi.
@@ -51,6 +53,7 @@ Modes disponibles:
     ```
 
 ### Notes Addicionals
+
 - Utilitzeu `--debug` per una sortida detallada de depuració.
 - L'opció `--no-verify` desactiva la verificació de certificats SSL/TLS.
 

@@ -13,6 +13,7 @@ sqlmap [opcions] [objectiu]
 ### Paràmetres Comúns
 
 Opcions per llançar atacs d'injecció SQL:
+
 - `-u <URL>`, `--url <URL>` : Especifica la URL objectiu.
 - `-d <connexió>`, `--data <connexió>` : Proporciona la cadena de connexió directa a la base de dades.
 - `-r <arxiu>`, `--request-file <arxiu>` : Utilitza un fitxer amb les dades de la petició HTTP.
@@ -20,6 +21,7 @@ Opcions per llançar atacs d'injecció SQL:
 - `--batch` : Mode automàtic, respon les preguntes per defecte.
 
 Opcions de detecció i enumeració:
+
 - `--level <número>` : Defineix el nivell d'agressivitat (per defecte, 1).
 - `--risk <número>` : Estableix el risc dels tests (per defecte, 1).
 - `--dbs` : Llista les bases de dades disponibles.
@@ -28,6 +30,7 @@ Opcions de detecció i enumeració:
 - `--dump` : Recupera les dades de la base de dades.
 
 Altres opcions:
+
 - `--tor` : Utilitza la xarxa Tor per anonimitzar l'atac.
 - `--user-agent <string>` : Defineix un user-agent personalitzat.
 - `--proxy <URL>` : Utilitza un servidor intermediari per a les peticions.

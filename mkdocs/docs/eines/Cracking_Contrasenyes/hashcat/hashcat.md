@@ -13,6 +13,7 @@ hashcat [opcions] <hash> [diccionari | fitxer de regles]
 ### Paràmetres Comuns
 
 Opcions bàsiques:
+
 - `-m <mode>` : Especifica el tipus de hash (ex: `0` per MD5, `1000` per NTLM).
 - `-a <mode>` : Selecciona el mode d'atac (ex: `0` per diccionari, `3` per força bruta).
 - `-o <fitxer>` : Fitxer de sortida amb les contrasenyes desxifrades.
@@ -21,6 +22,7 @@ Opcions bàsiques:
 - `--session <nom>` : Guarda o carrega una sessió per a aturades i represa.
 
 Modes d'atac:
+
 - `0` : Atac de diccionari.
 - `1` : Atac de combinació.
 - `3` : Força bruta.
@@ -52,6 +54,7 @@ Modes d'atac:
     ```
 
 ### Notes Addicionals
+
 - Utilitzeu `--show` per veure resultats de hashes desxifrats.
 - `?a` representa un caràcter alfanumèric en un atac de força bruta.
 

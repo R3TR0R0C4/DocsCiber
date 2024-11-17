@@ -13,6 +13,7 @@ hydra [opcions] [protocol://objectiu[:port]]
 ### Paràmetres Comuns
 
 Opcions bàsiques:
+
 - `-l <usuari>`, `--login <usuari>` : Especifica un únic nom d'usuari per provar.
 - `-L <arxiu>`, `--logins <arxiu>` : Especifica un fitxer amb una llista de noms d'usuari.
 - `-p <contrasenya>`, `--password <contrasenya>` : Especifica una única contrasenya per provar.
@@ -23,6 +24,7 @@ Opcions bàsiques:
 - `-V`, `--verbose` : Mostra cada intent de login.
 
 Protocols suportats (exemples):
+
 - `ssh` : Brute force per connexions SSH.
 - `ftp` : Prova d'accés a servidors FTP.
 - `http` : Atac a serveis web HTTP.
@@ -54,6 +56,7 @@ Protocols suportats (exemples):
     ```
 
 ### Notes Addicionals
+
 - Utilitzeu l'opció `-d`, `--debug` per mostrar sortida detallada per depurar errors.
 - La variable `F=error` al formulari HTTP indica el text que Hydra busca per determinar un intent fallit.
 
